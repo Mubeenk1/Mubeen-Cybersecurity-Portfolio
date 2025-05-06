@@ -27,11 +27,15 @@ As part of the Mastercard Cybersecurity Virtual Experience, I completed hands-on
 
  💡 **Skills & Tools Gained**
 
-- Email threat analysis (phishing detection)
-- Social engineering awareness
-- Cybersecurity training design
-- Organizational risk assessment
-- Communication of technical concepts to non-technical audiences
+- Communication
+- Cybersecurity
+- Data Analysis
+- Data Presentation
+- Design Thinking
+- Problem Solving
+- Security Awareness Training
+- Strategy
+- Technical Security Awareness
 
   **📄 Certificate**
 [Forage certificate.pdf](https://github.com/user-attachments/files/20064572/Forage.certificate.pdf)
