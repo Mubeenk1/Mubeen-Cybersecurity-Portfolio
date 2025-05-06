@@ -20,7 +20,7 @@ As part of the Mastercard Cybersecurity Virtual Experience, I completed hands-on
 - Gained insight into how Mastercard detects and mitigates phishing threats.
 
 
-**📢 Task 2:** Security Awareness Training:
+**📢 Task 2:** **Security Awareness Training:**
 
 - Analyzed which parts of an organization are most vulnerable to phishing based on role and behavior.
 - Designed a security awareness training presentation to educate teams and reduce phishing risk.
